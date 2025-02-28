@@ -30,7 +30,7 @@ function Footer() {
                     <h2>GET IN TOUCH</h2>
                     <ul>
                         <li>+91 8950026567</li>
-                        <li>umanggulati470007@gmail.com</li>
+                        <li>Team_AlPHA</li>
                     </ul>
 
                 </div>
